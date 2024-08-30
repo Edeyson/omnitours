@@ -1,0 +1,664 @@
+{
+  "plan1": {
+    "tour": {
+      "nombre_del_plan": "Amazonas 4 días",
+      "plan_code": "LET003",
+      "city_code": "LET"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan2": {
+    "tour": {
+      "nombre_del_plan": "Amazonas 5 días",
+      "plan_code": "LET004",
+      "city_code": "LET"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan3": {
+    "tour": {
+      "nombre_del_plan": "Armenia 4 días con traslados",
+      "plan_code": "AXM044",
+      "city_code": "AXM"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan4": {
+    "tour": {
+      "nombre_del_plan": "Armenia al natural",
+      "plan_code": "AXM014",
+      "city_code": "AXM"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan5": {
+    "tour": {
+      "nombre_del_plan": "Armenia 4 días sin traslados",
+      "plan_code": "AXM043",
+      "city_code": "AXM"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan6": {
+    "tour": {
+      "nombre_del_plan": "Bahia Solano 4 días",
+      "plan_code": "BSC001",
+      "city_code": "BSC"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan7": {
+    "tour": {
+      "nombre_del_plan": "Bahia Solano 5 días",
+      "plan_code": "BSC002",
+      "city_code": "BSC"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan8": {
+    "tour": {
+      "nombre_del_plan": "Bogotá en conexión 2 días",
+      "plan_code": "BOG033",
+      "city_code": "BOG"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan9": {
+    "tour": {
+      "nombre_del_plan": "Bogotá Clásico 3 días",
+      "plan_code": "BOG034",
+      "city_code": "BOG"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan10": {
+    "tour": {
+      "nombre_del_plan": "Bogotá de compras 3 días",
+      "plan_code": "BOG031",
+      "city_code": "BOG"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan11": {
+    "tour": {
+      "nombre_del_plan": "Bogotá de fiesta 3 días",
+      "plan_code": "BOG059",
+      "city_code": "BOG"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan12": {
+    "tour": {
+      "nombre_del_plan": "Bogotá y Boyacá 4 días",
+      "plan_code": "BOG064",
+      "city_code": "BOG"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan13": {
+    "tour": {
+      "nombre_del_plan": "Cali Clásico 3 días",
+      "plan_code": "CLO039",
+      "city_code": "CLO"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan14": {
+    "tour": {
+      "nombre_del_plan": "Cali 4 días",
+      "plan_code": "CLO043",
+      "city_code": "CLO"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan15": {
+    "tour": {
+      "nombre_del_plan": "Caño Cristales plan 4 días",
+      "plan_code": "LMC012",
+      "city_code": "LMC"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan16": {
+    "tour": {
+      "nombre_del_plan": "Caño Cristales Plan  5 días",
+      "plan_code": "LMC013",
+      "city_code": "LMC"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan17": {
+    "tour": {
+      "nombre_del_plan": "Capurganá 4 días",
+      "plan_code": "CPB001",
+      "city_code": "CPB"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan18": {
+    "tour": {
+      "nombre_del_plan": "Capurganá 5 días",
+      "plan_code": "CPB002",
+      "city_code": "CPB"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan19": {
+    "tour": {
+      "nombre_del_plan": "Capurganá y Necoclí 5 días",
+      "plan_code": "PTP013",
+      "city_code": "CPB"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan20": {
+    "tour": {
+      "nombre_del_plan": "Capurganá y Necoclí 6 días",
+      "plan_code": "PTP014",
+      "city_code": "CPB"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan21": {
+    "tour": {
+      "nombre_del_plan": "Circuito Santander 4 días",
+      "plan_code": "EXC020",
+      "city_code": "BGA"
+    },
+    "months": {
+      "Octubre 5 y 11": "2024-10-05/2024-10-30",
+      "Noviembre 9": "2024-11-09/2024-10-30",
+      "Diciembre 23 y 30": "2024-12-23/2024-12-31",
+      "Enero 2, 5,10 y 16 de 2025": "2025-01-02/2025-01-16"
+    }
+  },
+  "plan22": {
+    "tour": {
+      "nombre_del_plan": " Triángulo Cafetero 5 días",
+      "plan_code": "EXC030",
+      "city_code": "AXM"
+    },
+    "months": {
+      "Octubre 7": "2024-10-07/2024-10-11",
+      "Diciembre 22 y 29": "2024-12-22/2024-12-29",
+      "Enero 4": "2025-01-04/2025-01-08"
+    }
+  },
+  "plan23": {
+    "tour": {
+      "nombre_del_plan": "Circuito Antioqueño 4 días",
+      "plan_code": "EXC026",
+      "city_code": "MDE"
+    },
+    "months": {
+      "Octubre 06 y 10": "2024-10-06/2024-10-10",
+      "Noviembre 08": "2024-11-08/2024-11-11",
+      "Diciembre 6, 12,19, 27": "2024-12-06/2024-12-27",
+      "Enero 2 y 23 de 2025": "2025-01-02/2025-01-23"
+    }
+  },
+  "plan24": {
+    "tour": {
+      "nombre_del_plan": "Circuito Huila 4 días",
+      "plan_code": "EXC032",
+      "city_code": "NVA"
+    },
+    "months": {
+      "Octubre 06 y 10": "2024-10-06/2024-10-10",
+      "Noviembre 08": "2024-11-08/2024-11-11",
+      "Diciembre 29 y 30": "2024-12-29/2024-12-30",
+      "Enero 2,3 y 10 de 2025": "2025-01-02/2025-01-13"
+    }
+  },
+  "plan25": {
+    "tour": {
+      "nombre_del_plan": "Plan Tolú y Coveñas 5 días",
+      "plan_code": "CVE002",
+      "city_code": "CVE"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan26": {
+    "tour": {
+      "nombre_del_plan": "Plan Coveñas 5 días",
+      "plan_code": "CVE011",
+      "city_code": "CVE"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan27": {
+    "tour": {
+      "nombre_del_plan": "La Guajira 4 días",
+      "plan_code": "RCH023",
+      "city_code": "RCH"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan28": {
+    "tour": {
+      "nombre_del_plan": "La Guajira 5 días",
+      "plan_code": "RCH024",
+      "city_code": "RCH"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan29": {
+    "tour": {
+      "nombre_del_plan": "Medellín 3 días",
+      "plan_code": "MDE022",
+      "city_code": "MDE"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan30": {
+    "tour": {
+      "nombre_del_plan": "Mompox 4 días",
+      "plan_code": "MMX024",
+      "city_code": "co5"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan31": {
+    "tour": {
+      "nombre_del_plan": "Pasto 3 días",
+      "plan_code": "PSO012",
+      "city_code": "PSO"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan32": {
+    "tour": {
+      "nombre_del_plan": "Pasto y La Cocha 4 días",
+      "plan_code": "PSO013",
+      "city_code": "PSO"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan33": {
+    "tour": {
+      "nombre_del_plan": "Pasto 5 días",
+      "plan_code": "PSO014",
+      "city_code": "PSO"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan34": {
+    "tour": {
+      "nombre_del_plan": "Putumayo fin del mundo 4 días",
+      "plan_code": "MCO002",
+      "city_code": "CO_0958"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan35": {
+    "tour": {
+      "nombre_del_plan": "Bahía Málaga 3 días ",
+      "plan_code": "CB001",
+      "city_code": "CB3"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan36": {
+    "tour": {
+      "nombre_del_plan": "Bahía Málaga 4 días ",
+      "plan_code": "CB002",
+      "city_code": "CB3"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan37": {
+    "tour": {
+      "nombre_del_plan": "Boyaca 1 día  ",
+      "plan_code": "BOG018",
+      "city_code": "BOG"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan38": {
+    "tour": {
+      "nombre_del_plan": "Boyaca 2 días  ",
+      "plan_code": "EXC011",
+      "city_code": "VI1"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan39": {
+    "tour": {
+      "nombre_del_plan": "Boyaca 3 días  ",
+      "plan_code": "EXC010",
+      "city_code": "VI1"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan40": {
+    "tour": {
+      "nombre_del_plan": "Boyacá 4 días  ",
+      "plan_code": "BOG073",
+      "city_code": "VI1"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan41": {
+    "tour": {
+      "nombre_del_plan": "Caquetá 4 días  ",
+      "plan_code": "FLA01",
+      "city_code": "FLA"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan42": {
+    "tour": {
+      "nombre_del_plan": "Guainía 4 días ",
+      "plan_code": "PDA01",
+      "city_code": "PDA"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan43": {
+    "tour": {
+      "nombre_del_plan": "Guaviare 4 días ",
+      "plan_code": "SJE001",
+      "city_code": "SJE"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan44": {
+    "tour": {
+      "nombre_del_plan": "Norcasia 3 días ",
+      "plan_code": "NC1001",
+      "city_code": "NC1"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan45": {
+    "tour": {
+      "nombre_del_plan": "Nuquí 4 días ",
+      "plan_code": "NQU001",
+      "city_code": "NQU"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan46": {
+    "tour": {
+      "nombre_del_plan": "Nuquí 5 días ",
+      "plan_code": "NQU004",
+      "city_code": "NQU"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan47": {
+    "tour": {
+      "nombre_del_plan": "Pereira 3 días ",
+      "plan_code": "PEI051",
+      "city_code": "PEI"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan48": {
+    "tour": {
+      "nombre_del_plan": "Santa Marta y Cartagena 5 días",
+      "plan_code": "PTP002",
+      "city_code": "CTG"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan49": {
+    "tour": {
+      "nombre_del_plan": "Santa Rosa 3 días",
+      "plan_code": "SCR002",
+      "city_code": "CO_0756"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan50": {
+    "tour": {
+      "nombre_del_plan": "Manizales 3 días",
+      "plan_code": "MZL011",
+      "city_code": "MZL"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  },
+  "plan51": {
+    "tour": {
+      "nombre_del_plan": "Cartagena",
+      "plan_code": "CTG094",
+      "city_code": "CTG"
+    },
+    "months": {
+      "Septiembre": "2024-09-01/2024-09-30",
+      "Octubre": "2024-10-01/2024-10-31",
+      "Noviembre": "2024-11-01/2024-11-30",
+      "Diciembre": "2024-12-01/2024-12-31"
+    }
+  }
+}
