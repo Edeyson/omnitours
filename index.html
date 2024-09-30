@@ -1,16 +1,148 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Omnitours</title>
+    <title>Instructivo para Editar planes1.json</title>
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+}
+
+h1 span {
+    color: #00AF66;
+}
+
+h2 {
+    font-size: 22px;
+    color: #00AF66;
+    margin-bottom: 10px;
+}
+
+p, li {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}
+
+.step {
+    margin-bottom: 30px;
+}
+
+span {
+    font-weight: bold;
+    color: #00AF66;
+}
+
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.summary {
+    background-color: #f1f7ff;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #00AF66;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+.head_imagenes{
+    display: flex;
+    justify-content: space-around;
+  }
+  .head_imagenes img{
+    object-fit: contain;
+  }
+    </style>
 </head>
 <body>
+    <div class="container">
+        
+        <div class="head_imagenes">
+            <img src="https://www.omnitours.com.co/Portals/1050/Logo_Omnitours.png" alt="Omnitours" srcset="https://www.omnitours.com.co/Portals/1050/Logo_Omnitours.png">
+        <img src="https://www.omnitours.com.co/portals/1138/Skins/skin-grid-new/assets/Images/logoNetactica3.png" alt="Netactica" srcset="https://www.omnitours.com.co/portals/1138/Skins/skin-grid-new/assets/Images/logoNetactica3.png">
+        </div>
 
-    <div>
-        <h1>Editar planes Omnitours</h1>
-        <a href="#">Editar</a>
+        <h1>Instructivo para Editar y Actualizar el Archivo <span>planes1.json</span></h1>
+
+        <div class="step">
+            <h2>Paso 1: Editar el JSON</h2>
+            <p>El archivo <span>planes1.json</span> contiene los planes turísticos. Usaremos una herramienta interactiva para realizar los cambios:</p>
+            
+            <ol>
+                <li>Accede a la herramienta de edición y abre el archivo <span> planes1.json</span> (<a target="_blank" href="/index1.html">Entrar a editar el archivo aquí</a>).</li>
+                <li>Agrega, elimina o edita los planes existentes, marcando o desmarcando los meses activos.</li>
+                <li>Una vez realizados los cambios, copia el nuevo JSON generado.</li>
+            </ol>
+        </div>
+
+        <div class="step">
+            <h2>Paso 2: Abrir el Repositorio en VS Code Web</h2>
+            <ol>
+                <li>Abre el repositorio en VS Code Web haciendo clic <a href="https://vscode.dev/github.com/Edeyson/omnitours" target="_blank">aquí</a>.</li>
+                <li>En la barra lateral izquierda, navega hasta encontrar el archivo <span>planes1.json</span>.</li>
+            </ol>
+        </div>
+
+        <div class="step">
+            <h2>Paso 3: Actualizar el Archivo <span>planes1.json</span></h2>
+            <ol>
+                <li>Haz clic en el archivo <span>planes1.json</span> para abrirlo.</li>
+                <li>Pega el nuevo JSON que copiaste en el Paso 1, reemplazando el contenido existente.</li>
+                <li>Guarda el archivo con <span>Ctrl + S</span> (o <span>Cmd + S</span> en Mac).</li>
+            </ol>
+        </div>
+
+        <div class="step">
+            <h2>Paso 4: Subir los Cambios a GitHub</h2>
+            <ol>
+                <li>Haz clic en el icono de "Control de Código Fuente" en la barra lateral izquierda de VS Code.</li>
+                <li>Escribe un mensaje de commit como <span>"Actualización de planes turísticos Mayo"</span>.</li>
+                <li>Haz clic en "Commit" y luego en "Push" para enviar los cambios a GitHub.</li>
+            </ol>
+        </div>
+
+        <div class="summary">
+            <h3>Resumen de Pasos</h3>
+            <ul>
+                <li>Editar el JSON en la herramienta web <a target="_blank" href="/index1.html">Entrar a editar el archivo aquí</a>.</li>
+                <li>Abrir el repositorio en <a href="https://vscode.dev/github.com/Edeyson/omnitours" target="_blank">VS Code Web</a>.</li>
+                <li>Pegar el nuevo JSON en <span>planes1.json</span> y guardarlo.</li>
+                <li>Hacer commit y enviar (push) los cambios a GitHub.</li>
+            </ul>
+        </div>
     </div>
-    
 </body>
 </html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editor de Planes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="head_imagenes">
+            <img src="https://www.omnitours.com.co/Portals/1050/Logo_Omnitours.png" alt="Omnitours" srcset="https://www.omnitours.com.co/Portals/1050/Logo_Omnitours.png">
+        <img src="https://www.omnitours.com.co/portals/1138/Skins/skin-grid-new/assets/Images/logoNetactica3.png" alt="Netactica" srcset="https://www.omnitours.com.co/portals/1138/Skins/skin-grid-new/assets/Images/logoNetactica3.png">
+        </div>
+        <h1>Editor de Planes y Meses Activos</h1>
+
+
+        <h2>Planes mes completo</h2>
+        <!-- Sección de planes regulares -->
+        <div id="plansContainer"></div>
+
+        <!-- Select para seleccionar un mes específico -->
+        <div class="actions">
+            <label for="selectMonth">Seleccionar un mes para marcar/desmarcar:</label>
+            <select id="selectMonth">
+                <option value="Enero">Enero</option>
+                <option value="Febrero">Febrero</option>
+                <option value="Marzo">Marzo</option>
+                <option value="Abril">Abril</option>
+                <option value="Mayo">Mayo</option>
+                <option value="Junio">Junio</option>
+                <option value="Julio">Julio</option>
+                <option value="Agosto">Agosto</option>
+                <option value="Septiembre">Septiembre</option>
+                <option value="Octubre">Octubre</option>
+                <option value="Noviembre">Noviembre</option>
+                <option value="Diciembre">Diciembre</option>
+            </select>
+            <button id="toggleMonth">Marcar/Desmarcar Mes en Todos los Planes</button>
+        </div>
+
+                <!-- Sección de planes con fechas específicas -->
+                <h2>Planes con Fechas Específicas</h2>
+                <div id="specificDatePlansContainer"></div>
+
+        <!-- Agregar nuevo plan -->
+        <div class="actions">
+            <h2>Agregar nuevo plan</h2>
+            <label for="newPlanName">Nombre del Plan:</label>
+            <input type="text" id="newPlanName" placeholder="Nombre del plan">
+<br>
+            <label for="newPlanCode">Código del Plan:</label>
+            <input type="text" id="newPlanCode" placeholder="Código del plan">
+<br>
+            <label for="newCityCode">Código de Ciudad:</label>
+            <input type="text" id="newCityCode" placeholder="Código de ciudad">
+<br>
+            <button id="addPlan">Agregar Plan</button>
+        </div>
+
+        <!-- Botones de acciones -->
+        <div class="actions">
+            <button id="saveChanges">Generar nuevo JSON</button>
+            <button id="copyToClipboard">Copiar JSON al Portapapeles</button>
+        </div>
+
+        <!-- Mostrar JSON actualizado -->
+        <pre id="outputJson"></pre>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
